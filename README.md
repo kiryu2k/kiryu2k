@@ -12,10 +12,10 @@
 ### 💻 <samp>Experiences</samp>
 
 ##### <samp>Languages</samp>
-<samp>Golang, C/C++, JavaScript, SQL, Python</samp>
+<samp>Golang, C/C++, JavaScript, Dart, SQL, Python</samp>
 
 ##### <samp>General Technologies</samp>
-<samp>PostgreSQL, MongoDB, Redis, RabbitMQ, Docker, Traefik, Node.js, Express.js, Vue.js, Bootstrap</samp>
+<samp>PostgreSQL, MongoDB, Redis, RabbitMQ, OpenSearch, Docker, Traefik, Node.js, Express.js, Vue.js, Bootstrap</samp>
 
 #
 
