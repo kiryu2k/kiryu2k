@@ -1,5 +1,5 @@
 <div>
-    <img align="right" height="180px" src="cooly.gif" alt="Profile picture" />
+    <img align="right" height="180px" src="cooly.gif" alt="Profile picture" /><br/>
     <h3><samp>hi there, i'm kira</samp> ⛧°.⋆༺♱༻⋆.°⛧</h3>
     <p><samp>
         here's a little bit about me:
@@ -43,9 +43,5 @@ _._     _,-'""`-._
     `-.-' \ )-`( , - -)
           `-    \`_`"'
 
-ｔｈｅ　ｃａｔ
-ｋｎｏｗｓ
-
-猫は知っている
-    </pre>
+ｔｈｅ　ｃａｔ　ｋｎｏｗｓ　猫は知っている</pre>
 </div>
