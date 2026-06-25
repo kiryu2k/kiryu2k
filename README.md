@@ -1,14 +1,14 @@
 <div>
     <img align="right" height="180px" src="cooly.gif" alt="Profile picture" />
-    <h3><samp>hi there, i'm kira</samp> ⛧°.⋆༺♱༻⋆.°⛧</h3>
+    <h3><samp>hi there, i'm kira</samp> ⛧°.⋆༺♱༻⋆.°⛧</h3><br/>
     <p><samp>
         here's a little bit about me:
     </samp></p>
-    <p><samp>
-        building backend systems in <a href="https://go.dev/">go</a> 🚀<br/>
-        solving various complex engineering problems through programming ⚙️<br/>
-        interested in modern information technologies and how they become business value 💼<br/>
-    </samp></p>
+    <ul>
+        <li><samp>building backend systems in <a href="https://go.dev/">go</a> 🚀</samp></li>
+        <li><samp>solving various complex engineering problems through programming ⚙️</samp></li>
+        <li><samp>interested in modern information technologies and how they become business value 💼</samp></li>
+    </ul>
 </div>
 
 <div align="center">
@@ -19,12 +19,12 @@
 
 <div>
     <h3><samp>my cs interests</samp></h3>
-    <p><samp>
-        go 🐹<br/>
-        algorithms & data structures ⚡<br/>
-        networking & protocols 🌐<br/>
-        distributed systems 🕸️</br>
-    </samp></p>
+    <ul>
+        <li><samp>go 🐹</samp></li>
+        <li><samp>algorithms & data structures ⚡<samp></li>
+        <li><samp>networking & protocols 🌐</samp></li>
+        <li><samp>distributed systems 🕸️</samp></li>
+    </ul>
 </div>
 
 <div align="center">
