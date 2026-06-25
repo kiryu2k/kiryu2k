@@ -13,7 +13,7 @@
 
 <div align="center">
 
-⛧ ──────────────────────────────────────────────────── ⛧
+⛧ ────────────────────────────────────────────────────────────────────────── ⛧
 
 </div>
 
@@ -29,14 +29,15 @@
 
 <div align="center">
 
-⛧ ──────────────────────────────────────────────────── ⛧
+⛧ ────────────────────────────────────────────────────────────────────────── ⛧
 
 </div>
 
 <div>
     <div align="center">
-        <samp><a href="https://github.com/kiryu2k">GitHub</a> · <a href="https://t.me/kirrryu">Telegram</a> · <a href="mailto:sailor.kirill@gmail.com">Email</a><br/></samp>
+        <samp><a href="https://github.com/kiryu2k">GitHub</a> · <a href="https://t.me/kirrryu">Telegram</a> · <a href="mailto:sailor.kirill@gmail.com">Email</a></samp>
     </div>
+    <br/>
     <pre>
 _._     _,-'""`-._
 (,-.`._,'(       |\`-/|
