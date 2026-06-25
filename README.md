@@ -1,6 +1,6 @@
 <div>
     <img align="right" height="180px" src="cooly.gif" alt="Profile picture" /><br/>
-    <h3><samp>hi there, i'm kira</samp> ⛧°.⋆༺♱༻⋆.°⛧</h3>
+    <h1><samp>hi there, i'm kira</samp> ⛧°.⋆༺♱༻⋆.°⛧</h1>
     <p><samp>
         here's a little bit about me:
     </samp></p>
@@ -18,7 +18,7 @@
 </div>
 
 <div>
-    <h4><samp>my cs interests</samp></h4>
+    <h2><samp>my cs interests</samp></h2>
     <p><samp>
         go 🐹<br/>
         algorithms & data structures 📊<br/>
