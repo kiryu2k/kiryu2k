@@ -20,7 +20,7 @@
 <div>
     <h3><samp>my cs interests</samp></h3>
     <ul>
-        <li><samp>go 🐹</samp></li>
+        <li><samp>go ☆*:.｡.o(ᗒ⩊ᗕ)o.｡.:*☆</samp></li>
         <li><samp>algorithms & data structures ⚡<samp></li>
         <li><samp>networking & protocols 🌐</samp></li>
         <li><samp>distributed systems 🕸️</samp></li>
